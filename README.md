@@ -1,4 +1,4 @@
-# Brazilian E-Commerce Analysis Project
+# E-Commerce Analysis Project
 
 ## Overview
 This project aims to analyze data on the Brazilian E-Commerce Public Dataset. The dataset can be downloaded [here](https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view).
